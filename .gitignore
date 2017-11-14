@@ -4,3 +4,5 @@
 /firebase/
 .env.test
 .env.development
+.DS_Store
+*/fun/
